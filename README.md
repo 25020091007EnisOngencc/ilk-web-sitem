@@ -1,5 +1,6 @@
 ## 🎓 Öğrenci Bilgi Sistemi (ÖBS) Paneli
 Bootstrap framework kullanılarak geliştirilen, modern tasarıma sahip bir Öğrenci Bilgi Sistemi arayüz projesidir. Bu proje, hem bir giriş senaryosunu hem de öğrencinin akademik verilerini takip edebileceği kapsamlı bir paneli içerir.
+---
 
 # 🚀 Proje Özellikleri
 Modern Giriş Ekranı: Koyu tema (Dark Mode) uyumlu, estetik ve kullanıcı dostu login tasarımı.
