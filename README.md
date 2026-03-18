@@ -4,11 +4,17 @@ Bootstrap framework kullanılarak geliştirilen, modern tasarıma sahip bir Öğ
 
 # 🚀 Proje Özellikleri
 Modern Giriş Ekranı: Koyu tema (Dark Mode) uyumlu, estetik ve kullanıcı dostu login tasarımı.
+
 Akademik Dashboard: Devamsızlık, GNO ve danışman bilgilerinin yer aldığı hızlı özet kutucukları.
+
 Ders Takip Sistemi: Alttan, üstten veya normal alınan derslerin detaylı tablo yapısı.
+
 Haftalık İçerik: Ders bazlı haftalık işlenen konuların kısa özetleri.
+
 Akademik Bilgilendirme: Öğretim üyesi (Dr. Öğr. Üyesi Uğur Demiroğlu) ve Sınıf Temsilcisi (Ömer Çetin Yalman) iletişim kartları.
---- 
+
+---
+
 
 # 🛠️ Kullanılan Teknolojiler
 Frontend: HTML5, CSS3, Bootstrap 4
